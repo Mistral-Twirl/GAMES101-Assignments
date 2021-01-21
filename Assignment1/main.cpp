@@ -151,7 +151,7 @@ int main(int argc, const char** argv)
 
         r.set_model(get_model_matrix(angle));
         r.set_view(get_view_matrix(eye_pos));
-        r.set_projection(get_projection_matrix(45, 1, 0.1, 50));
+        r.set_projection(get_projection_matrix(45, 1, -0.1, -50));
 
         r.draw(pos_id, ind_id, rst::Primitive::Triangle);
 
@@ -169,10 +169,9 @@ int main(int argc, const char** argv)
             angle -= 10;
         }
 */
-        angle[0] += 3;
-        angle[1] += 6;
-        angle[2] += 9;
-        //std::cout << angle[0]<< angle[1]<<angle[2]<< std::endl;
+        angle[0] += 5;      // x-axis
+        angle[1] += 5;      // y-axis
+        angle[2] += 5;      // z-axis
     }
     
     return 0;
