@@ -10,4 +10,5 @@
  <img src="https://github.com/Mistral-Twirl/GAMES101-Assignments/blob/main/Assignment2/build/output1.png">
 </p>
 
-**Known Issue:**The black line between the overlapping part of these two triangles is obvious.
+**Known Issue:**
+The black line between the overlapping part of these two triangles is obvious.
