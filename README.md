@@ -6,4 +6,4 @@ Course Website: [GAMES101:现代计算机图形学入门](http://games-cn.org/in
 
 Course Assignments: [往期作业汇总帖](http://games-cn.org/forums/topic/allhw/)
 
-*Current Progress: Homework 5*
+*Current Progress: Homework 7*
