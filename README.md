@@ -5,5 +5,3 @@ This is a repository for the assignments of the online course GAMES101: Introduc
 Course Website: [GAMES101:现代计算机图形学入门](http://games-cn.org/intro-graphics/)
 
 Course Assignments: [往期作业汇总帖](http://games-cn.org/forums/topic/allhw/)
-
-*Current Progress: Homework 7*
